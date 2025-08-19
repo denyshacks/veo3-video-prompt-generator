@@ -1,0 +1,67 @@
+{
+  "segments": [
+    {
+      "segment_info": {
+        "segment_number": 1,
+        "total_segments": 2,
+        "location": "home office",
+        "overlap_instructions": "Character finishes speaking and begins to gather items, ready to move to the coffee shop."
+      },
+      "character_description": {
+        "physical": "The character is a woman in her late twenties to early thirties, with a warm and approachable demeanor. She has medium-length, wavy brown hair that frames her face, accentuating her bright, expressive hazel eyes. Her skin is fair with a natural glow, suggesting a healthy lifestyle. She carries herself with a relaxed yet confident posture, exuding an aura of friendliness and approachability. Her smile is genuine and inviting, often lighting up her entire face. Her build is average, with a balanced physique that suggests she maintains an active lifestyle. Her gestures are animated and expressive, often using her hands to emphasize points during conversation. Her overall appearance is polished yet casual, reflecting a modern, professional woman who values comfort and style equally.",
+        "clothing": "The character is dressed in a casual yet stylish outfit that suits her friendly and approachable personality. She wears a soft, light blue blouse that complements her skin tone and brings out the color of her eyes. The blouse is paired with a pair of well-fitted, dark denim jeans that offer both comfort and a touch of sophistication. On her feet, she wears a pair of comfortable, white sneakers that add a youthful and energetic vibe to her ensemble. Her accessories are minimal but thoughtfully chosen, including a simple silver necklace and a pair of small hoop earrings. A casual watch adorns her wrist, adding a practical yet chic element to her look. Her overall attire is perfect for a day spent between a home office and a coffee shop, balancing professionalism with a relaxed, friendly style.",
+        "current_state": "She is seated at her desk, her expression calm yet focused. Her energy is building as she speaks, transitioning from a composed demeanor to a more animated one. Her posture is upright, and her hands are poised to gesture as she emphasizes her points. Her eyes are bright and engaged, reflecting her enthusiasm for the subject matter.",
+        "voice_matching": "Her voice is warm and engaging, with a friendly tone that immediately puts listeners at ease. She speaks with clear articulation and a moderate pace, ensuring her words are easily understood. As she delivers her lines, her inflection rises slightly, adding urgency and emphasis, particularly on 'DO NOT wait till the last minute.' Her enthusiasm is palpable, drawing the listener in."
+      },
+      "scene_continuity": {
+        "environment": "The home office is a small, well-organized space with a modern aesthetic. It features a sleek desk with a laptop, a comfortable ergonomic chair, and a few potted plants that add a touch of greenery. The walls are adorned with minimalist art pieces, creating a serene and inspiring environment. Natural light floods the room through a large window, enhancing the warm and inviting ambiance. The room is quiet, with only the character's voice filling the space, creating an intimate and focused setting.",
+        "camera_position": "The camera is positioned at eye level, capturing a medium shot of the character as she sits at her desk. The framing includes her upper body and the immediate surroundings on the desk.",
+        "camera_movement": "The camera remains static, maintaining a steady shot to focus on the character's expressions and gestures.",
+        "lighting_state": "The lighting is natural and soft, streaming through the window to create a gentle morning glow. It highlights her features and adds warmth to the scene.",
+        "props_in_frame": "Visible props include the laptop, a notepad, a pen, and a small potted plant on the desk.",
+        "background_elements": "The background is minimal, with the focus solely on the character, ensuring there are no distractions from her dialogue."
+      },
+      "action_timeline": {
+        "dialogue": "\"Don't get left behind, and lose out on your coverage for 2026. DO NOT wait till the last minute, and get denied.\"",
+        "synchronized_actions": "As she speaks, her hands move expressively, emphasizing 'DO NOT' with a slight forward lean and a raised hand gesture.",
+        "product_interactions": "No specific product interactions occur in this segment.",
+        "location_transition": "As she finishes her dialogue, she begins to close her laptop and gather her notepad, preparing to transition to the coffee shop.",
+        "transition_prep": "The segment ends with her standing up from her chair, ready to move, aligning with the start of the next segment where she will be on her way to the coffee shop."
+      }
+    },
+    {
+      "segment_info": {
+        "segment_number": 2,
+        "total_segments": 2,
+        "location": "coffee shop",
+        "overlap_instructions": "Character position at end matches next segment start"
+      },
+      "character_description": {
+        "physical": "The character is a woman in her late twenties to early thirties, with a warm and approachable demeanor. She has medium-length, wavy brown hair that frames her face, accentuating her bright, expressive hazel eyes. Her skin is fair with a natural glow, suggesting a healthy lifestyle. She carries herself with a relaxed yet confident posture, exuding an aura of friendliness and approachability. Her smile is genuine and inviting, often lighting up her entire face. Her build is average, with a balanced physique that suggests she maintains an active lifestyle. Her gestures are animated and expressive, often using her hands to emphasize points during conversation. Her overall appearance is polished yet casual, reflecting a modern, professional woman who values comfort and style equally.",
+        "clothing": "The character is dressed in a casual yet stylish outfit that suits her friendly and approachable personality. She wears a soft, light blue blouse that complements her skin tone and brings out the color of her eyes. The blouse is paired with a pair of well-fitted, dark denim jeans that offer both comfort and a touch of sophistication. On her feet, she wears a pair of comfortable, white sneakers that add a youthful and energetic vibe to her ensemble. Her accessories are minimal but thoughtfully chosen, including a simple silver necklace and a pair of small hoop earrings. A casual watch adorns her wrist, adding a practical yet chic element to her look. Her overall attire is perfect for a day spent between a home office and a coffee shop, balancing professionalism with a relaxed, friendly style.",
+        "current_state": "As she enters the coffee shop, her expression is bright and enthusiastic, reflecting the energy of the bustling environment. Her eyes are lively, taking in the surroundings with interest. She walks with a confident stride, her posture upright and engaging. Her energy is high, building from the calm of her previous location, and she is clearly excited to share her message.",
+        "voice_matching": "Her voice is warm and engaging, with a friendly tone that immediately puts listeners at ease. She speaks with clear articulation and a moderate pace, ensuring her words are easily understood. Her inflection varies naturally, adding emphasis to key points and maintaining the listener's interest. There is a genuine enthusiasm in her voice, reflecting her passion for the topics she discusses. Her conversational style is direct yet personable, making her an effective communicator who can connect with her audience effortlessly."
+      },
+      "scene_continuity": {
+        "environment": "The coffee shop is bustling with energy, characterized by its rustic wooden tables, exposed brick walls, and an array of hanging plants. The aroma of freshly brewed coffee fills the air, and the sound of the espresso machine adds to the lively atmosphere. The morning light filters through large windows, casting a warm glow across the room. The shop is filled with patrons engaged in quiet conversations, but the focus remains solely on the character as she navigates the space. The overall ambiance is one of comfort and creativity, making it an ideal setting for casual work and social interactions.",
+        "camera_position": "The camera is positioned at eye level, capturing a medium shot of the character as she enters the coffee shop. The framing centers on her upper body, allowing her expressions and gestures to be clearly visible.",
+        "camera_movement": "The camera remains static-handheld, providing a natural and slightly dynamic feel as if the viewer is following her into the shop.",
+        "lighting_state": "The lighting is natural and warm, reflecting the morning time of day. Sunlight streams through the windows, creating a bright and inviting atmosphere.",
+        "props_in_frame": "Visible props include rustic wooden tables, coffee cups, the espresso machine, and hanging plants. These elements add to the authenticity of the coffee shop setting.",
+        "background_elements": "While the shop is filled with other patrons, the background life is blurred, keeping the focus on the character as she delivers her lines."
+      },
+      "action_timeline": {
+        "dialogue": "Most Americans don't know you can get coverage, without ANY paperwork.",
+        "synchronized_actions": "As she speaks, she gestures animatedly with her hands, emphasizing the ease of getting coverage without paperwork. Her expressions are engaging, with her eyes lighting up as she delivers the key points.",
+        "product_interactions": "There is no specific product interaction in this segment.",
+        "location_transition": "The segment starts with her entering the coffee shop from the street, seamlessly transitioning from her previous location at the home office.",
+        "transition_prep": "The segment ends with her moving towards a table, preparing to sit down, aligning with the next potential segment where she might continue her discussion or engage with someone at the shop."
+      }
+    }
+  ],
+  "metadata": {
+    "totalSegments": 2,
+    "estimatedDuration": 16,
+    "characterId": "female_25-34_1755118299756_plus"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "segments": [
+    {
+      "segment_info": {
+        "segment_number": 1,
+        "total_segments": 2,
+        "location": "home office",
+        "overlap_instructions": "Character position at end matches next segment start"
+      },
+      "character_description": {
+        "physical": "The character is a woman in her late 30s to early 40s, with a distinctly Middle-Eastern appearance. Her skin is a warm olive tone, complemented by dark, expressive eyes that convey a sense of warmth and intelligence. Her hair is long, cascading in soft waves down her back, with a rich, dark brown color that catches the light beautifully. She has a confident posture, standing at an average height with a well-proportioned figure. Her facial features are striking, with high cheekbones and a gentle smile that often graces her lips. Her overall demeanor exudes a blend of elegance and approachability, making her presence both commanding and inviting. She carries herself with a natural grace, her movements fluid and purposeful, reflecting a self-assured personality.",
+        "clothing": "The character is dressed in a casual yet stylish manner, perfectly suited for a day that transitions between a home office and an outdoor cafe. She wears a low-cut shirt that tastefully showcases her cleavage, adding a touch of allure to her ensemble. The shirt is a soft, breathable fabric in a neutral color, allowing her to remain comfortable throughout the day. Paired with the shirt, she wears well-fitted jeans that highlight her figure without being overly tight, offering both style and ease of movement. Her footwear consists of casual yet chic sneakers, ideal for walking and maintaining a relaxed vibe. Accessories are minimal but thoughtfully chosen, including a simple necklace and a pair of small hoop earrings that add a subtle elegance to her look. Her outfit is completed with a lightweight jacket, perfect for the morning chill and easily removable as the day warms up.",
+        "current_state": "Her expression is focused yet inviting, with a slight smile that suggests confidence and ease. She is seated at her desk, maintaining an upright posture that reflects her engaging energy level of 80%. Her eyes are bright and attentive, suggesting a readiness to communicate effectively.",
+        "voice_matching": "Her voice carries a neutral American accent, characterized by clear enunciation and a warm, friendly tone. As she delivers the lines, her inflection is steady and persuasive, emphasizing urgency without sounding alarmist. The melodic quality of her voice is subtly employed to draw attention to key points, maintaining listener engagement."
+      },
+      "scene_continuity": {
+        "environment": "The home office is a blend of modern functionality and personal touches, with a sleek desk and ergonomic chair positioned near a large window that lets in ample natural light. The walls are adorned with a few pieces of abstract art, adding a splash of color and creativity to the space. Indoor plants are strategically placed, bringing a sense of tranquility and life to the room. The morning light streams in, creating a warm and inviting atmosphere that complements the character's energy.",
+        "camera_position": "The camera is positioned for a slow-push shot, starting with a medium frame that gradually tightens to a close-up on her face, capturing her expressions and emphasizing the message she conveys.",
+        "camera_movement": "Slow push, gradually moving closer to her face to enhance the engagement with her dialogue.",
+        "lighting_state": "The lighting is natural, with soft morning light filtering through the window, creating a warm and inviting atmosphere.",
+        "props_in_frame": "Visible in the shot are her laptop, a coffee cup, and a few personal items on the desk like a notepad and pen.",
+        "background_elements": "The focus remains solely on the character, with no additional background activity to distract from her message."
+      },
+      "action_timeline": {
+        "dialogue": "Don't get left behind, and lose out on your coverage for 2026. DO NOT wait till the last minute, and get denied.",
+        "synchronized_actions": "As she speaks, she gestures subtly with her hands to emphasize her points, occasionally glancing at the laptop screen to reinforce the context of her dialogue.",
+        "product_interactions": "No specific product handling is involved in this segment.",
+        "location_transition": "The segment ends with her standing up from her desk, preparing to transition to the outdoor cafe.",
+        "transition_prep": "She gathers her lightweight jacket and casually slings it over her shoulder, ready to move to the next location."
+      }
+    },
+    {
+      "segment_info": {
+        "segment_number": 2,
+        "total_segments": 2,
+        "location": "outdoor cafe",
+        "overlap_instructions": "Character position at end matches next segment start"
+      },
+      "character_description": {
+        "physical": "The character is a woman in her late 30s to early 40s, with a distinctly Middle-Eastern appearance. Her skin is a warm olive tone, complemented by dark, expressive eyes that convey a sense of warmth and intelligence. Her hair is long, cascading in soft waves down her back, with a rich, dark brown color that catches the light beautifully. She has a confident posture, standing at an average height with a well-proportioned figure. Her facial features are striking, with high cheekbones and a gentle smile that often graces her lips. Her overall demeanor exudes a blend of elegance and approachability, making her presence both commanding and inviting. She carries herself with a natural grace, her movements fluid and purposeful, reflecting a self-assured personality.",
+        "clothing": "The character is dressed in a casual yet stylish manner, perfectly suited for a day that transitions between a home office and an outdoor cafe. She wears a low-cut shirt that tastefully showcases her cleavage, adding a touch of allure to her ensemble. The shirt is a soft, breathable fabric in a neutral color, allowing her to remain comfortable throughout the day. Paired with the shirt, she wears well-fitted jeans that highlight her figure without being overly tight, offering both style and ease of movement. Her footwear consists of casual yet chic sneakers, ideal for walking and maintaining a relaxed vibe. Accessories are minimal but thoughtfully chosen, including a simple necklace and a pair of small hoop earrings that add a subtle elegance to her look. Her outfit is completed with a lightweight jacket, perfect for the morning chill and easily removable as the day warms up.",
+        "current_state": "The character is seated at a small, round table in the outdoor cafe, her posture relaxed yet attentive. Her expression is engaging and animated as she speaks, her eyes bright with enthusiasm. She occasionally gestures with her hands to emphasize her points, maintaining a steady energy level of 80%. Her demeanor is inviting, drawing in those around her with a natural charisma.",
+        "voice_matching": "Her voice carries a neutral American accent, characterized by clear enunciation and a warm, friendly tone. It is soothing and engaging, with a natural inflection that makes her speech easy to listen to. As she delivers her lines, her voice is infused with a sense of urgency and sincerity, emphasizing the ease of obtaining coverage without paperwork. Her melodic quality remains, with subtle variations in pitch to highlight key points."
+      },
+      "scene_continuity": {
+        "environment": "The outdoor cafe is nestled on a quaint street, offering a charming view of the surrounding greenery. The tables are set up on a patio, each with mismatched chairs that add to the eclectic and cozy ambiance. The morning sun casts a gentle glow, creating a warm and inviting atmosphere. The cafe is bustling with the quiet murmur of patrons enjoying their morning routines, though the focus remains solely on the character. The decor is vibrant yet relaxed, with potted plants and colorful umbrellas providing a touch of whimsy to the scene.",
+        "camera_position": "The camera is positioned in a pov-selfie style, capturing the character from a slightly elevated angle that frames her upper body and face. This angle allows for a personal and intimate connection with the viewer, as if she is speaking directly to them.",
+        "camera_movement": "The camera remains mostly static, with a gentle sway to mimic the natural motion of a handheld device, enhancing the personal and relatable feel of the segment.",
+        "lighting_state": "The lighting is bright and natural, reflecting the morning sun. It highlights the character's features and complements the warm tones of her skin and outfit.",
+        "props_in_frame": "Visible in this shot are a small coffee cup on the table in front of her and a notebook placed casually to one side. The lightweight jacket she carried from the previous location is draped over the back of her chair.",
+        "background_elements": "The background is intentionally blurred to keep the focus on the character, though the outlines of other cafe patrons can be seen, adding a sense of life and activity without distracting from the main scene."
+      },
+      "action_timeline": {
+        "dialogue": "Most Americans don't know you can get coverage, without ANY paperwork.",
+        "synchronized_actions": "As she speaks, she leans slightly forward, her expression earnest. She gestures with her right hand, palm open, to emphasize the ease of the process. Her left hand rests casually on the table, fingers lightly tapping the surface in rhythm with her words.",
+        "product_interactions": "There are no specific product interactions in this segment, but she occasionally glances at her coffee cup, adding a touch of realism to the scene.",
+        "location_transition": "There is no location transition in this segment, as the focus remains on the outdoor cafe setting.",
+        "transition_prep": "The segment concludes with her maintaining eye contact with the camera, her expression confident and inviting, setting the stage for a smooth transition should there be additional segments."
+      }
+    }
+  ],
+  "metadata": {
+    "totalSegments": 2,
+    "estimatedDuration": 16,
+    "characterId": "female_35-44_1755122035787_plus"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "segments": [
+    {
+      "segment_info": {
+        "segment_number": 1,
+        "total_segments": 2,
+        "location": "bedroom",
+        "overlap_instructions": "Character position at end matches next segment start"
+      },
+      "character_description": {
+        "physical": "The character is a young female, aged between 18 and 24, with a captivating presence that blends youthful energy with a hint of mature allure. Her facial features are well-defined and symmetrical, with high cheekbones that add an elegant contour to her face. She has a smooth, even skin tone that suggests a healthy lifestyle, though her specific ethnicity is left unspecified, allowing for a universal appeal. Her eyes are a striking shade of hazel, large and expressive, often conveying a sense of curiosity and warmth. Her hair is a rich, chestnut brown, cascading in soft waves down to her shoulders, framing her face beautifully. Her lips are full and naturally pink, often curled into a subtle, inviting smile. Her physique is slender yet curvaceous, with a noticeable emphasis on her bust, which is accentuated by her choice of clothing. She carries herself with a confident, seductive air, her movements fluid and deliberate, drawing attention effortlessly. Her overall appearance is one of polished casualness, with an underlying hint of sophistication that makes her both approachable and intriguing.",
+        "clothing": "The character is dressed in a casual yet alluring outfit that perfectly complements her youthful and seductive demeanor. She wears a low-cut shirt that is both stylish and comfortable, crafted from a soft, breathable fabric that drapes elegantly over her form. The shirt is a deep shade of burgundy, which contrasts beautifully with her skin tone and highlights her features. The neckline plunges tastefully, revealing just enough to be enticing without being overtly provocative, drawing attention to her cleavage in a subtle manner. Her outfit is completed with a pair of fitted jeans that hug her curves, emphasizing her slender waist and shapely legs. The jeans are a classic dark wash, adding a touch of sophistication to her casual look. She accessorizes minimally, with a delicate silver necklace that rests just above her collarbone, and small stud earrings that catch the light as she moves. Her footwear is a pair of comfortable yet chic sneakers, perfect for a day spent in relaxed settings.",
+        "current_state": "The character is sitting comfortably on the edge of the bed, her posture relaxed yet attentive. Her expression is engaging, with a slight smile playing on her lips as she speaks directly to the camera. Her energy level is steady at 80%, maintaining a balance of enthusiasm and calmness. Her eyes are focused and warm, drawing the viewer into the conversation.",
+        "voice_matching": "Her voice is smooth and clear, with a friendly and approachable tone. She speaks with a well-paced rhythm, ensuring her words are easily understood. The inflection in her voice conveys sincerity and confidence, with a subtle playfulness that reflects her youthful energy. Her delivery is engaging, making the audience feel at ease and attentive."
+      },
+      "scene_continuity": {
+        "environment": "The bedroom is cozy and inviting, reflecting the character's personal style. The morning light filters softly through sheer curtains, casting a warm glow across the room. The walls are painted in a neutral tone, providing a calming backdrop. A plush, queen-sized bed is the focal point, dressed in crisp white linens with decorative pillows adding color. A sleek nightstand beside the bed holds a small lamp and personal items, suggesting a lived-in yet tidy space. The floor is covered with a soft, textured rug, adding warmth underfoot. A large mirror on one wall reflects the room's elements, creating an illusion of space. The overall aesthetic is one of understated elegance, focusing on comfort and personal expression.",
+        "camera_position": "The camera is positioned in a POV-selfie style, capturing the character from the chest up while she sits on the bed. The framing is intimate, focusing on her facial expressions and the health insurance card she holds.",
+        "camera_movement": "The camera remains mostly static, with slight adjustments to maintain focus on the character's face and hand movements.",
+        "lighting_state": "The lighting is soft and natural, consistent with the morning setting. It enhances the warmth of the room and highlights the character's features.",
+        "props_in_frame": "Visible props include the health insurance card in the character's hand, the bed with its decorative pillows, the nightstand with a lamp, and a few personal items.",
+        "background_elements": "The focus remains solely on the character, with no additional background activity or elements drawing attention away from her."
+      },
+      "action_timeline": {
+        "dialogue": "Don't get left behind, and lose out on your coverage for 2026. Do not wait till the last minute, and get denied.",
+        "synchronized_actions": "As she speaks, she holds up the health insurance card, occasionally gesturing with it to emphasize her points. Her eyes remain on the camera, maintaining a connection with the audience.",
+        "product_interactions": "The character naturally integrates the health insurance card into her dialogue, holding it confidently and ensuring it remains visible throughout.",
+        "location_transition": "There is no movement between rooms in this segment.",
+        "transition_prep": "The segment ends with the character maintaining eye contact with the camera, her expression steady and engaging, ready to continue in the next segment."
+      }
+    },
+    {
+      "segment_info": {
+        "segment_number": 2,
+        "total_segments": 2,
+        "location": "bedroom",
+        "overlap_instructions": "Character position at end matches next segment start"
+      },
+      "character_description": {
+        "physical": "The character is a young female, aged between 18 and 24, with a captivating presence that blends youthful energy with a hint of mature allure. Her facial features are well-defined and symmetrical, with high cheekbones that add an elegant contour to her face. She has a smooth, even skin tone that suggests a healthy lifestyle, though her specific ethnicity is left unspecified, allowing for a universal appeal. Her eyes are a striking shade of hazel, large and expressive, often conveying a sense of curiosity and warmth. Her hair is a rich, chestnut brown, cascading in soft waves down to her shoulders, framing her face beautifully. Her lips are full and naturally pink, often curled into a subtle, inviting smile. Her physique is slender yet curvaceous, with a noticeable emphasis on her bust, which is accentuated by her choice of clothing. She carries herself with a confident, seductive air, her movements fluid and deliberate, drawing attention effortlessly. Her overall appearance is one of polished casualness, with an underlying hint of sophistication that makes her both approachable and intriguing.",
+        "clothing": "The character is dressed in a casual yet alluring outfit that perfectly complements her youthful and seductive demeanor. She wears a low-cut shirt that is both stylish and comfortable, crafted from a soft, breathable fabric that drapes elegantly over her form. The shirt is a deep shade of burgundy, which contrasts beautifully with her skin tone and highlights her features. The neckline plunges tastefully, revealing just enough to be enticing without being overtly provocative, drawing attention to her cleavage in a subtle manner. Her outfit is completed with a pair of fitted jeans that hug her curves, emphasizing her slender waist and shapely legs. The jeans are a classic dark wash, adding a touch of sophistication to her casual look. She accessorizes minimally, with a delicate silver necklace that rests just above her collarbone, and small stud earrings that catch the light as she moves. Her footwear is a pair of comfortable yet chic sneakers, perfect for a day spent in relaxed settings.",
+        "current_state": "The character maintains eye contact with the camera, her expression steady and engaging, as she holds the health insurance card in her right hand. Her energy is at 80%, exuding confidence and a friendly demeanor. Her gaze is warm and inviting, encouraging the viewer to listen closely to her message. She stands in a relaxed posture, her weight evenly distributed, ensuring she remains the focal point of the frame.",
+        "voice_matching": "Her voice carries a smooth and clear tone with a neutral American accent. She speaks with a friendly and approachable inflection, ensuring her words are well-paced and articulate. Her delivery is confident, with a hint of playfulness that reflects her youthful energy. As she speaks about health coverage, her tone is sincere and engaging, drawing the listener into her narrative."
+      },
+      "scene_continuity": {
+        "environment": "The setting is a cozy bedroom that exudes a sense of warmth and personal style, reflecting the character's casual yet sophisticated taste. The room is bathed in the soft, natural light of the morning, filtering through sheer curtains that lend a gentle glow to the space. The walls are painted in a soothing, neutral tone, providing a calming backdrop that enhances the room's inviting atmosphere. A plush, queen-sized bed dominates the space, dressed in crisp white linens with a few decorative pillows adding a pop of color. Beside the bed, a sleek nightstand holds a small lamp and a few personal items, suggesting a lived-in yet tidy environment. The floor is covered with a soft, textured rug that adds warmth and comfort underfoot. A large mirror hangs on one wall, reflecting the room's elements and creating an illusion of space. The overall aesthetic is one of understated elegance, with a focus on comfort and personal expression.",
+        "camera_position": "The camera is positioned in a POV-selfie style, capturing the character from a slightly elevated angle that emphasizes her facial features and the product she is holding.",
+        "camera_movement": "The camera remains static, maintaining a steady focus on the character to ensure her message and the product are clearly conveyed.",
+        "lighting_state": "The lighting is natural and soft, appropriate for the morning setting, enhancing the character's features and the cozy atmosphere of the bedroom.",
+        "props_in_frame": "Visible props include the health insurance card in the character's hand, the bed with its decorative pillows, and the nightstand with a lamp and personal items.",
+        "background_elements": "The focus remains solely on the character, with no additional background activity to distract from her message."
+      },
+      "action_timeline": {
+        "dialogue": "Most Americans don't know you can get coverage, without any paperwork.",
+        "synchronized_actions": "As she speaks, she gestures subtly with the health insurance card, using it to emphasize her point about coverage. Her facial expressions are engaging, with occasional nods to reinforce her statements.",
+        "product_interactions": "The character holds the health insurance card confidently, occasionally flipping it between her fingers to draw attention to it while she speaks.",
+        "location_transition": "There is no movement between rooms; the character remains in the bedroom throughout this segment.",
+        "transition_prep": "The segment ends with the character maintaining eye contact with the camera, her expression steady and engaging, ready to conclude her message."
+      }
+    }
+  ],
+  "metadata": {
+    "totalSegments": 2,
+    "estimatedDuration": 16,
+    "characterId": "female_18-24_1755149753141_plus"
+  }
+}

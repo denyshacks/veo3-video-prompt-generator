@@ -1,0 +1,40 @@
+# Digital Ocean App Platform Configuration
+name: ugc-script-splitter
+services:
+- name: web
+  source_dir: /
+  github:
+    repo: your-github-username/your-repo-name
+    branch: main
+    deploy_on_push: true
+  run_command: npm start
+  build_command: npm run install-all && npm run build
+  environment_slug: node-js
+  instance_count: 1
+  instance_size_slug: basic-xxs
+  routes:
+  - path: /
+  health_check:
+    http_path: /api/health
+    initial_delay_seconds: 30
+    period_seconds: 10
+    timeout_seconds: 5
+    success_threshold: 1
+    failure_threshold: 3
+  envs:
+  - key: NODE_ENV
+    value: production
+  - key: PORT
+    value: "8080"
+  - key: OPENAI_API_KEY
+    value: ${OPENAI_API_KEY}
+    type: SECRET
+  - key: GOOGLE_GEMINI_API_KEY
+    value: ${GOOGLE_GEMINI_API_KEY}
+    type: SECRET
+  - key: VERTEX_PROJECT_ID
+    value: ${VERTEX_PROJECT_ID}
+    type: SECRET
+  - key: VERTEX_LOCATION
+    value: ${VERTEX_LOCATION}
+    type: SECRET

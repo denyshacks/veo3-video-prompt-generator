@@ -1,0 +1,23 @@
+{
+  "script": "When your house runs on batteries, you cannot waste power. And when you run a business, you can't waste time or money. I live in Western Quebec, completely off the grid. And for nine months of the year, my solar panels charge our batteries just fine. But in the dead of winter, for about three months, we rely heavily on a generator to keep the batteries topped up. But either way, we never have unlimited power. We have to live with what I call precision power.",
+  "ageRange": "45-54",
+  "gender": "male",
+  "product": "no product",
+  "room": "living room",
+  "style": "casual and friendly",
+  "jsonFormat": "standard",
+  "voiceType": "warm-friendly",
+  "energyLevel": "70",
+  "settingMode": "ai-inspired",
+  "locations": [],
+  "cameraStyle": "ai-inspired",
+  "timeOfDay": "morning",
+  "backgroundLife": false,
+  "productStyle": "natural",
+  "energyArc": "consistent",
+  "narrativeStyle": "direct-review",
+  "ethnicity": "caucasian",
+  "characterFeatures": "glasses",
+  "clothingDetails": "",
+  "accentRegion": "neutral-american"
+}
