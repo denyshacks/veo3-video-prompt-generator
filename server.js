@@ -33,8 +33,11 @@ app.use('/api', generateContinuationRoute);
 app.use('/api', generatePlusRoute);
 app.use('/api', generateNewContRoute);
 
-// Serve static files from React build
-app.use(express.static(path.join(__dirname, 'build')));
+// Serve static files from React build (check both possible locations)
+const buildPath = process.env.NODE_ENV === 'production' 
+  ? path.join(__dirname, 'client/build')  // Digital Ocean heroku-postbuild location
+  : path.join(__dirname, 'build');        // Local development location
+app.use(express.static(buildPath));
 
 // Health check endpoint
 app.get('/api/health', (req, res) => {
@@ -43,7 +46,7 @@ app.get('/api/health', (req, res) => {
 
 // Catch all handler - send React app for any route not handled above
 app.get('*', (req, res) => {
-  const indexPath = path.join(__dirname, 'build', 'index.html');
+  const indexPath = path.join(buildPath, 'index.html');
   console.log(`Serving React app from: ${indexPath}`);
   res.sendFile(indexPath, (err) => {
     if (err) {
@@ -65,5 +68,6 @@ app.use((err, req, res, next) => {
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
   console.log(`Environment: ${process.env.NODE_ENV || 'development'}`);
-  console.log(`Build directory: ${path.join(__dirname, 'build')}`);
+  console.log(`Build directory: ${buildPath}`);
+  console.log(`Static files serving from: ${buildPath}`);
 });
