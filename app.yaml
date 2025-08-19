@@ -4,7 +4,7 @@ services:
 - name: web
   source_dir: /
   github:
-    repo: your-github-username/your-repo-name
+    repo: denyshacks/veo3-video-prompt-generator
     branch: main
     deploy_on_push: true
   run_command: npm start

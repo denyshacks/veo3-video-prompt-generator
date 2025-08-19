@@ -31,7 +31,7 @@ The following environment variables need to be configured in Digital Ocean:
 
 2. **Connect Repository**
    - Authorize Digital Ocean to access your GitHub
-   - Select your repository
+   - Select `denyshacks/veo3-video-prompt-generator`
    - Choose the `main` branch
 
 3. **Configure Build Settings**
